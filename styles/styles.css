@@ -121,7 +121,7 @@ h5 {
   font-weight: 50;
   font-family: sans-serif;
   color: var(--background-color);
-  line-height: 10px;
+  line-height: 25px;
   scroll-margin: 40px;
 }
 h6 {
