@@ -139,7 +139,7 @@ h2 { font-size: var(--heading-font-size-xl); }
 h3 { font-size: var(--heading-font-size-l); }
 h4 { font-size: var(--heading-font-size-m); }
 h5 { font-size: var(--heading-font-size-m); }
-h6 { font-size: var(--heading-font-size-xs); }
+h6 { font-size: var(--heading-font-size-m); }
 
 p,
 dl,
