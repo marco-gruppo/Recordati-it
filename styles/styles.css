@@ -102,15 +102,24 @@ footer .footer[data-block-status="loaded"] {
 h1,
 h2,
 h3,
-h4,
+h4 {
+  margin: auto;
+  width: 50%;
+  font-family: var(--heading-font-family);
+  font-weight: 300;
+  color: var(--background-color);
+  line-height: 0.25;
+  font-style: var(--heading-font-size-m);
+  scroll-margin: 40px;
+},
 h5 {
   margin-top: 2.8em;
   margin-bottom: 0.25em;
   margin-left: 3em;
   font-family: var(--heading-font-family);
-  font-weight: lighter;
+  font-weight: 200;
   color: var(--background-color);
-  line-height: normal;
+  line-height: 0.25;
   font-style: var(--heading-font-size-m);
   scroll-margin: 40px;
 },
