@@ -118,10 +118,9 @@ h5 {
   margin-bottom: 0.25em;
   margin-left: 3em;
   font-family: var(--heading-font-family);
-  font-weight: 200;
+  font-weight: 50;
   color: var(--background-color);
   line-height: 0.25;
-  font-style: var(--heading-font-size-l);
   scroll-margin: 40px;
 }
 h6 {
@@ -137,7 +136,7 @@ h1 { font-size: var(--heading-font-size-xxl); }
 h2 { font-size: var(--heading-font-size-xl); }
 h3 { font-size: var(--heading-font-size-l); }
 h4 { font-size: var(--heading-font-size-m); }
-h5 { font-size: var(--heading-font-size-s); }
+h5 { font-size: var(--heading-font-size-l); }
 h6 { font-size: var(--heading-font-size-xs); }
 
 p,
