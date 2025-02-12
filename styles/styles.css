@@ -131,6 +131,7 @@ h6 {
   font-family: var(--heading-font-family);
   font-weight: 200;
   line-height: 0.25;
+  color: var(--background-color);
   scroll-margin: 40px;
 }
 
