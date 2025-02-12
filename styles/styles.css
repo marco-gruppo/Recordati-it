@@ -106,20 +106,21 @@ h4,
 h5 {
   margin-top: 2.8em;
   margin-bottom: 0.25em;
+  margin-left: 3em;
   font-family: var(--heading-font-family);
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 0.25;
   color: var(--background-color);
   font-style: light;
-  scroll-margin: 10px;
+  scroll-margin: 40px;
 },
 h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
   font-weight: 600;
-  line-height: 1.25;
-  scroll-margin: 20px;
+  line-height: 0.25;
+  scroll-margin: 40px;
 }
 
 h1 { font-size: var(--heading-font-size-xxl); }
