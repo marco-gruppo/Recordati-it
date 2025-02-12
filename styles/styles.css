@@ -109,15 +109,15 @@ h5 {
   font-family: var(--heading-font-family);
   font-weight: 600;
   line-height: 1.25;
+  color: var(--background-color);
+  font-style: light;
   scroll-margin: 40px;
 },
 h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
-  color: var(--background-color);
   font-weight: 600;
-  font-style: light;
   line-height: 1.25;
   scroll-margin: 40px;
 }
