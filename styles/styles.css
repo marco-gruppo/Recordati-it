@@ -189,13 +189,10 @@ a:hover {
 }
 
 /* buttons */
-/* margin: 12px 0; */
 a.button:any-link,
 button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   box-sizing: border-box;
+  margin: 12px;
   display: inline-block;
   max-width: 100%;
   border: 2px solid transparent;
@@ -213,6 +210,7 @@ button {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  position: absolute;
 }
 
 a.button:hover,
