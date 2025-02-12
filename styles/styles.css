@@ -125,10 +125,11 @@ h5 {
   scroll-margin: 40px;
 }
 h6 {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: var(--heading-font-family);
-  font-weight: 600;
+  font-weight: 200;
   line-height: 0.25;
   scroll-margin: 40px;
 }
