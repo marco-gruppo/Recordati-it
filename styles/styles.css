@@ -288,12 +288,6 @@ main > .section:first-of-type {
   .text-on-video-wrapper {
     margin-top: -32% !important;
     margin-bottom: 32% !important;
-    text-align: right;
-    font-size: 40px;
-    font-weight: bold;
-    color: #FFF;
-    line-height: .4;
-    padding-right: 16% !important;
   }
 }
 
