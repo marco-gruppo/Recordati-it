@@ -275,6 +275,8 @@ main > .section:first-of-type {
   }
 }
 
+
+
 /* section metadata */
 main .section.light,
 main .section.highlight {
@@ -282,3 +284,5 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+
