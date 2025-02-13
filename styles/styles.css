@@ -275,7 +275,7 @@ main > .section:first-of-type {
     text-align: right;
     font-size: 40px;
     font-weight: bold;
-    color: red;
+    color: #FFF;
     line-height: .4;
     padding-right: 16% !important;
 }
@@ -291,7 +291,7 @@ main > .section:first-of-type {
     text-align: right;
     font-size: 40px;
     font-weight: bold;
-    color: red;
+    color: #FFF;
     line-height: .4;
     padding-right: 16% !important;
   }
