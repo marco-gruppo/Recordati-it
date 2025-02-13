@@ -270,7 +270,7 @@ main > .section:first-of-type {
 }
 
 .text-on-video-wrapper {
-  margin-top: -32% !important;
+  margin-top: -40% !important;
     margin-bottom: 32% !important;
     text-align: right;
     font-size: 40px;
@@ -283,6 +283,17 @@ main > .section:first-of-type {
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
+  }
+
+  .text-on-video-wrapper {
+    margin-top: -32% !important;
+    margin-bottom: 32% !important;
+    text-align: right;
+    font-size: 40px;
+    font-weight: bold;
+    color: #FFF;
+    line-height: .4;
+    padding-right: 16% !important;
   }
 }
 
