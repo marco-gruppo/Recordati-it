@@ -270,8 +270,8 @@ main > .section:first-of-type {
 }
 
 .text-on-video-wrapper {
-  margin-top: -50% !important;
-    margin-bottom: 50% !important;
+  margin-top: -30% !important;
+    margin-bottom: 30% !important;
     text-align: right;
     font-size: 48px;
     font-weight: bold;
