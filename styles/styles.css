@@ -269,6 +269,17 @@ main > .section:first-of-type {
   max-width: 100%;
 }
 
+.text-on-video-wrapper {
+  margin-top: -20%;
+    margin-bottom: 20%;
+    text-align: right;
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFF;
+    line-height: .4;
+    padding-right: 16%;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
