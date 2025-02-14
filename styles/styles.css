@@ -368,7 +368,9 @@ main > .section:first-of-type {
   font-weight: normal;
 }
 
-
+.footer {
+  margin-top: -40px;
+}
 
 
 
