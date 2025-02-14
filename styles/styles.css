@@ -279,6 +279,14 @@ main > .section:first-of-type {
     line-height: .4;
     padding-right: 16% !important;
 }
+.banner {
+  color: #D51317 ;
+}
+
+.banner::before{
+  background-image: (
+    242deg, #0D80C500 0%, #000607 65%)
+}
 
 @media (width >= 900px) {
   main > .section > div {
