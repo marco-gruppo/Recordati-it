@@ -351,6 +351,10 @@ main > .section:first-of-type {
   color: var(--link-color);
 }
 
+.hero.job {
+  text-align: center;
+}
+
 
 
 @media (width >= 900px) {
