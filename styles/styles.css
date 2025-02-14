@@ -358,7 +358,17 @@ main > .section:first-of-type {
 .hero.job p {
   margin-top: 0;
   margin-bottom: 0;
+  color: #FFF;
+  font-size: 20px;
+  font-weight: bold;
 }
+
+.hero.job a {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+
 
 
 
