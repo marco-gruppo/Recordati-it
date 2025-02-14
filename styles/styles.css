@@ -292,13 +292,14 @@ main > .section:first-of-type {
   margin-top: -105px;
 }
 
-.banner p.buttun-container {
+.banner p.buttun-container a {
   font-size: 18px !important;
 }
 
 .banner p.buttun-container a:hover {
-  background-color: #FFF;
-  color: #1e9eb0;
+  background-color: #FFF !important;
+  color: #1e9eb0 !important;
+  
 } 
 
 .banner::before{
