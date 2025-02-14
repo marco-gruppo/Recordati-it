@@ -311,6 +311,12 @@ main > .section:first-of-type {
   margin-bottom: 200px;
 }
 
+.hero.text {
+  text-align: center;
+  color: #FFF;
+  font-size: 30px;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
