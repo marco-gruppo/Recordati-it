@@ -292,11 +292,11 @@ main > .section:first-of-type {
   margin-top: -105px;
 }
 
-.banner p.buttun-container a {
+.banner a.button:any-link, .banner button{
   font-size: 18px !important;
 }
 
-.banner p.buttun-container a:hover {
+.banner p.button-container a.button:hover {
   background-color: #FFF !important;
   color: #1e9eb0 !important;
   
