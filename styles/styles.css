@@ -370,9 +370,8 @@ main > .section:first-of-type {
 
 .footer {
   margin-top: -40px;
+  color: #FFF;
 }
-
-
 
 @media (width >= 900px) {
   main > .section > div {
