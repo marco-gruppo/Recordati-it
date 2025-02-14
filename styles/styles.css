@@ -355,6 +355,11 @@ main > .section:first-of-type {
   text-align: center;
 }
 
+.hero.job p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 
 
 @media (width >= 900px) {
