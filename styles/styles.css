@@ -294,6 +294,11 @@ main > .section:first-of-type {
 
 .banner p.buttun-container {
   font-size: 18px !important;
+}
+
+.banner p.buttun-container a:hover {
+  background-color: #FFF;
+  color: #1e9eb0;
 } 
 
 .banner::before{
