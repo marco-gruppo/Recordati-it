@@ -283,12 +283,13 @@ main > .section:first-of-type {
     padding-right: 16% !important;
 }
 .banner {
-  color: #D51317 ;
+  background-color: #D51317 ;
+  color: #fff;
+  text-align: center;
 }
 
 .banner::before{
-  background-image: (
-    242deg, #0D80C500 0%, #000607 65%)
+  background-image: (242deg, #0D80C500 0%, #000607 65%);
 }
 
 @media (width >= 900px) {
