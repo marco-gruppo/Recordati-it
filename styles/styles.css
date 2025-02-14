@@ -306,6 +306,11 @@ main > .section:first-of-type {
   background-image: (242deg, #0D80C500 0%, #000607 65%);
 }
 
+.video.youtube {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
