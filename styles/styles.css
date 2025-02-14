@@ -323,6 +323,30 @@ main > .section:first-of-type {
   margin-right: auto;
 }
 
+.hero.text a {
+  box-sizing: border-box;
+    margin: 12px;
+    display: inline-block;
+    max-width: 100%;
+    border: 2px solid transparent;
+    border-radius: 2.4em;
+    padding: 0.5em 1.2em;
+    font-family: var(--body-font-family);
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.25;
+    text-align: center;
+    text-decoration: none;
+    background-color: var(--link-color);
+    color: var(--background-color);
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
