@@ -394,6 +394,22 @@ main > .section:first-of-type {
   color: #FFF !important;
 }
 
+.tabs a {
+  border: 1px solid #bc1522;
+    border-radius: 10px;
+    padding: 5px 20px;
+    color: #bc1522;
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 25px;
+    text-decoration: none;
+}
+
+.tabs a:hover {
+    color: #FFF;
+    background-color: #bc1522;
+  }
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
