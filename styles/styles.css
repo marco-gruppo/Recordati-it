@@ -376,6 +376,7 @@ main > .section:first-of-type {
 .news h2 {
   color: #000 !important;
   text-align: left !important;
+  justify-content: left;
 }
 
 @media (width >= 900px) {
