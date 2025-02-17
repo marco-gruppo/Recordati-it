@@ -390,6 +390,10 @@ main > .section:first-of-type {
   padding-right: 25px !important;
 }
 
+.tabs .tabs-list button[aria-selected='false'] {
+  color: #FFF !important;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
