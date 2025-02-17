@@ -373,6 +373,11 @@ main > .section:first-of-type {
   color: #FFF;
 }
 
+.news h2 {
+  color: #000 !important;
+  text-align: left !important;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
