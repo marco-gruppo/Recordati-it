@@ -379,6 +379,11 @@ main > .section:first-of-type {
   justify-content: left;
 }
 
+.tabs.media {
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
@@ -395,8 +400,6 @@ main > .section:first-of-type {
     padding-right: 16% !important;
   }
 }
-
-
 
 /* section metadata */
 main .section.light,
